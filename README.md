@@ -2,4 +2,4 @@
 https://thckwarter.github.io
 
 ## Stuff is here
-Probably.
+Main Site: https://thckwarter.github.io/thckwarter-github-pages
